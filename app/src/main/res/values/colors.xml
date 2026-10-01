@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_main">#FFCC99</color>
+    <color name="bg_controls">#F0F0F0</color>
+    <color name="text_primary">#800000</color>
+    <color name="card_bg">#FFCC99</color>
+</resources>
